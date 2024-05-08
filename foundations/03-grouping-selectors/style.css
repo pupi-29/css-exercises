@@ -1,0 +1,16 @@
+.class-1,
+.share-class {
+    background-color: #000000;
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.class-2,
+.share-class {
+    background-color: #ffff00;
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
