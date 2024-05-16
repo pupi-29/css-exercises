@@ -20,6 +20,35 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  display: flex;
+  flex-wrap: wrap;
+  padding: 16px;
+}
+
+.head {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.header {
+  margin-right: auto;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.text {
+  margin-left: 54px;
+}
+
+.buttons {
+  margin-left: 54px;
+  margin-top: 24px;
+  display: flex;
+  justify-content: flex-start;
+  column-gap: 16px;
 }
 
 .icon {
